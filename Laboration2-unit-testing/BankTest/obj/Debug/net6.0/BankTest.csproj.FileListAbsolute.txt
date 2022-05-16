@@ -1,0 +1,12 @@
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\BankTest\bin\Debug\net6.0\BankTest.deps.json
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\BankTest\bin\Debug\net6.0\BankTest.dll
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\BankTest\bin\Debug\net6.0\BankTest.pdb
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\BankTest\obj\Debug\net6.0\BankTest.csproj.AssemblyReference.cache
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\BankTest\obj\Debug\net6.0\BankTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\BankTest\obj\Debug\net6.0\BankTest.AssemblyInfoInputs.cache
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\BankTest\obj\Debug\net6.0\BankTest.AssemblyInfo.cs
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\BankTest\obj\Debug\net6.0\BankTest.csproj.CoreCompileInputs.cache
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\BankTest\obj\Debug\net6.0\BankTest.dll
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\BankTest\obj\Debug\net6.0\refint\BankTest.dll
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\BankTest\obj\Debug\net6.0\BankTest.pdb
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\BankTest\obj\Debug\net6.0\ref\BankTest.dll

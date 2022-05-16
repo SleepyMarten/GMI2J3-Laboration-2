@@ -1,0 +1,12 @@
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\RomanNumeral\bin\Debug\net6.0\RomanNumeral.deps.json
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\RomanNumeral\bin\Debug\net6.0\RomanNumeral.dll
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\RomanNumeral\bin\Debug\net6.0\RomanNumeral.pdb
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\RomanNumeral\obj\Debug\net6.0\RomanNumeral.csproj.AssemblyReference.cache
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\RomanNumeral\obj\Debug\net6.0\RomanNumeral.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\RomanNumeral\obj\Debug\net6.0\RomanNumeral.AssemblyInfoInputs.cache
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\RomanNumeral\obj\Debug\net6.0\RomanNumeral.AssemblyInfo.cs
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\RomanNumeral\obj\Debug\net6.0\RomanNumeral.csproj.CoreCompileInputs.cache
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\RomanNumeral\obj\Debug\net6.0\RomanNumeral.dll
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\RomanNumeral\obj\Debug\net6.0\refint\RomanNumeral.dll
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\RomanNumeral\obj\Debug\net6.0\RomanNumeral.pdb
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\RomanNumeral\obj\Debug\net6.0\ref\RomanNumeral.dll

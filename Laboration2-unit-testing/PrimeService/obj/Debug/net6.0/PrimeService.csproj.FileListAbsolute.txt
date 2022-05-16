@@ -1,0 +1,12 @@
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\PrimeService\bin\Debug\net6.0\PrimeService.deps.json
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\PrimeService\bin\Debug\net6.0\PrimeService.dll
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\PrimeService\bin\Debug\net6.0\PrimeService.pdb
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\PrimeService\obj\Debug\net6.0\PrimeService.csproj.AssemblyReference.cache
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\PrimeService\obj\Debug\net6.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\PrimeService\obj\Debug\net6.0\PrimeService.AssemblyInfoInputs.cache
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\PrimeService\obj\Debug\net6.0\PrimeService.AssemblyInfo.cs
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\PrimeService\obj\Debug\net6.0\PrimeService.csproj.CoreCompileInputs.cache
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\PrimeService\obj\Debug\net6.0\PrimeService.dll
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\PrimeService\obj\Debug\net6.0\refint\PrimeService.dll
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\PrimeService\obj\Debug\net6.0\PrimeService.pdb
+D:\Study\2022\P2\GM12J3-Softwaretesting\Labs\Laboration2\Laboration2-unit-testing\PrimeService\obj\Debug\net6.0\ref\PrimeService.dll
